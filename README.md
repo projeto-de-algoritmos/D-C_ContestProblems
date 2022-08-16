@@ -1,44 +1,44 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Contest Problems
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Dividir e Conquistar<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 17/0101711  |  Daniel Barcelos Moreira |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O objetivo do projeto é solucionar alguns problemas de juízes online fazendo o uso de dividir e conquistar.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Problema Strings Equivalentes
+[Link para o problema](https://codeforces.com/problemset/problem/559/B)
+
+![Accepted Strings Equivalentes](./images/screenshot1.png)
+</figcaption>
+    Imagem 1: Accepted CodeForces Strings Equivalentes
+</figcaption>
+
+### Problema Merge
+
+[Link para o problema](https://codeforces.com/problemset/problem/873/D)
+
+![Accepted Merge](./images/screenshot2.png)
+</figcaption>
+    Imagem 2: Accepted CodeForces Merge
+</figcaption>
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+- Instale o [python 3](https://www.python.org/downloads/);
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+```
+python3 equivalent.py
+python3 merge.py
+python3 minmax.py
+```
 
 
 
